@@ -80,11 +80,13 @@ void ofApp::update(){
 	float strength = mover.mass / pow(distance, 2); // does not exactly follow the physics law
 	force *= 500 * strength; // 500 times
 	cout << "the distance" << distance << endl;
-
+	
 
 	// act like there's fraction when is close to the magnet
+
 	if (distance < 20) {
-		mover.vel *= 0.95;
+		mover.vel *= 0.8;
+		mover.applyForce(-0.7 * force);
 	}
 	else {
 		mover.applyForce(force);
