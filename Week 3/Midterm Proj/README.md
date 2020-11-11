@@ -14,7 +14,7 @@ Inspired by the film *Triangle*, I plan to use a mechanism that will be differen
 
 After the research, I found a mobile game *Sometimes You Die* that conveys a similar idea. In that game, the player dies with their body left on the screen. Sometimes the player has to pass the level with the help of their dead bodies. But my idea is slightly different, I intend to present the interaction between “previous selves”, “current self”, and even “future selves”. That is to say, those “previous selves” will not be static dead bodies or like recordings on the screen, but can have interactions with “current selves” (i.e. Block the way of current selves, have collisions with current selves). 
 
-![image-20201111082940886](D:\STUDY\THIS_TERM\MEDIART206\jm687_MEDIART206\Week 3\image-20201111082940886.png)
+![image-20201111082940886](image-20201111082940886.png)
 
 I intend to use the “previous selves” as a metaphor for our failures because we made mistakes at a certain moment and hence died in the game. And the “current self” represents “I” at this moment. We are influenced by our previous decisions, and the previous mistakes do have a series of consequences on ourselves for now and in the future, no matter how. So the co-existence of previous and current selves manifest this “influence” across time. 
 
@@ -24,7 +24,7 @@ Therefore, in the game, the “previous selves” may block the way of the “cu
 
 Another question is how exactly should we deal with these failures? Should we erase the influence of bad “previous self”? Or keep those failures in memories regardless of how “painful” they were? In the game, the player is designed to have a weapon that shoots bullet to the surroundings. When the bullet touches the player’s “previous self”, the “previous life” will be terminated and the body will be erased from the screen until the next spawning. However, the player has to pay the price for exerting this ability to erase a “previous failure” because the bullet they shoot to the air might at a certain time kill the “current self” and leads to death. So, there exists a situation that your “future self” will be killed by bullets that are shoot by your previous or current self, which conveys the philosophy that “We may create a new failure when dealing with our previous failures.”
 
-![image-20201111083028529](D:\STUDY\THIS_TERM\MEDIART206\jm687_MEDIART206\Week 3\image-20201111083028529.png)
+![image-20201111083028529](image-20201111083028529.png)
 
 To clarify the design and programming of this project, the following list will help to understand.
 
