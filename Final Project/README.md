@@ -1,3 +1,13 @@
+## NOTICE
+
+For this project, you will need FaceOSC installed first: Get the latest version of FaceOSC from [here](https://github.com/kylemcdonald/ofxFaceTracker/releases).
+
+Please compile & run the gaze application first, and then run the FaceOSC. 
+
+
+
+--------
+
 Junkai Man
 
 Final project proposal
